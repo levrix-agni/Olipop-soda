@@ -1,0 +1,31 @@
+{
+  "hash": "0098ec11",
+  "configHash": "bfe68498",
+  "lockfileHash": "6af67852",
+  "browserHash": "a0ac2a2e",
+  "optimized": {
+    "gsap": {
+      "src": "../../gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "38852227",
+      "needsInterop": false
+    },
+    "gsap/ScrollTrigger": {
+      "src": "../../gsap/ScrollTrigger.js",
+      "file": "gsap_ScrollTrigger.js",
+      "fileHash": "f9d4ce57",
+      "needsInterop": false
+    },
+    "lenis": {
+      "src": "../../lenis/dist/lenis.mjs",
+      "file": "lenis.js",
+      "fileHash": "e467bb6b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-V6TY7KAL": {
+      "file": "chunk-V6TY7KAL.js"
+    }
+  }
+}
